@@ -5,7 +5,7 @@
 * 🐶 I love dog 💕
 * 🫶🏼 Support up for animal rights
 
-### 🙌🏼 🌈
+### 🙌🏼 
 ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 
