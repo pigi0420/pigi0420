@@ -23,10 +23,6 @@
 </a>
 
 <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/703826601923992678/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+      <img src="https://render.gitanimals.org/lines/{pigi0420}?pet-id=1" width="400" height="300"/>
+      <img src="https://render.gitanimals.org/guilds/703826601923992678/draw" width="400" height="300" alt="gitanimals"/>
+</a>
