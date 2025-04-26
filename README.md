@@ -18,9 +18,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{pigi0420}?pet-id=1" width="600" height="300"/>
-</a>
 
 <a href="https://www.gitanimals.org/">
       <img src="https://render.gitanimals.org/lines/{pigi0420}?pet-id=1" width="400" height="300"/>
